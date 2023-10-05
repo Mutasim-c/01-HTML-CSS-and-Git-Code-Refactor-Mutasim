@@ -9,7 +9,7 @@ For example I needed to use semantic html, for accessibility, so any user could 
 Another thing i did was to comment the css file so any user could understand what the different classes do.I also added alt attributes to img, gave the title a title that made more sense for the page andmade sure the headers fall in sequential order.
 
 ## image
-![tis is a link to how the page is supposed to look, it should look the same before and after i changed the html beacuse i was only cleaning up the css and html to make it more accessible](./Assets/images/01-html-css-git-homework-demo.png)
+![tis is a link to how the page is supposed to look, it should look the same before and after i changed the html beacuse i was only cleaning up the css and html to make it more accessible](./assets/images/01-html-css-git-homework-demo.png)
 
 ## page link
 below is a link to the page

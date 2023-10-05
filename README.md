@@ -11,6 +11,8 @@ Another thing i did was to comment the css file so any user could understand wha
 ## image
 ![tis is a link to how the page is supposed to look, it should look the same before and after i changed the html beacuse i was only cleaning up the css and html to make it more accessible](./assets/images/01-html-css-git-homework-demo.png)
 
+this is a link to how the page is supposed to look, it should look the same before and after i changed the html beacuse i was only cleaning up the css and html to make it more accessible
+
 ## page link
 below is a link to the page
 https://mutasim-c.github.io/01-HTML-CSS-and-Git-Code-Refactor-Mutasim/
